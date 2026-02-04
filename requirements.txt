@@ -7,4 +7,3 @@ fpdf
 pillow
 openpyxl
 scikit-learn
-sqlite3
