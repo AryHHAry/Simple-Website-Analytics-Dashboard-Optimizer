@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+pulp
+fpdf
+pillow
+openpyxl
+scikit-learn
+sqlite3
